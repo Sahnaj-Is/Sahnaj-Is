@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEJiT2cv--Nsw/profile-displaybackgroundimage-shrink_350_1400/B56Zhmrhu1HcAc-/0/1754069344513?e=1756944000&v=beta&t=taZlgDrdzwQGYh1rsjCxT7lgMCtqnpxHNnuLKhj_0QM">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQF9nSo6y7yRFw/profile-displaybackgroundimage-shrink_350_1400/B56Zh19sW3H0Aw-/0/1754325766214?e=1756944000&v=beta&t=nd-jjomC_yFf8kPVBgrgx9-1BqJZSI3x9fPCMiGgxQ4">
 <h1 align="center">Hi 👋, I'm Sahnaj Islam</h1>
 <h3 align="center">Web Design | Frontend Development | Responsive Design</h3>
 
