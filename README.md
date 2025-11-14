@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/sahnaj-islam-b92a4b283/overlay/background-photo/">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQF9nSo6y7yRFw/profile-displaybackgroundimage-shrink_350_1400/B56Zh19sW3H0Aw-/0/1754325766214?e=1764806400&v=beta&t=goSJ0ekpLdJljRu-kYlNa06HvrOLV031epu2hUt_bc4">
 <h1 align="center">Hi 👋, I'm Sahnaj Islam</h1>
 <h3 align="center">Web Design | Frontend Development | Responsive Design</h3>
 
